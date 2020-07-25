@@ -9,3 +9,5 @@ RULES : --->
 * You have to eat 25 preys to win the challenge.\n\n";
 
 After starting of the game, first right click using mouse and select the difficulty.
+
+Youtube VEDIO link for this: https: //www.youtube.com/watch?v=5NapqWzoaYI&t=27s
